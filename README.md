@@ -24,6 +24,12 @@ Utilizamos uma API própria em FastAPI integrada com a Wikipédia. Quando o estu
 
 ---
 
+## Uso da IA
+
+A Inteligência Artificial foi utilizada como uma ferramenta de apoio ao desenvolvimento e engenharia de software ao longo de todo o processo de criação do Lumora. Ela auxiliou na estruturação inicial dos componentes em React, na conceção e refatoração dos endpoints da API em FastAPI, na resolução de erros e conflitos de dependências no Git, e na otimização da estilização com Tailwind CSS para garantir a responsividade da aplicação.
+
+---
+
 ## Como Executar o Projeto
 
 ### 1. Iniciar o Back-end (API)
@@ -40,4 +46,4 @@ npm run dev
 ---
 
 ## Links Úteis
-* Deploy na Vercel (Front-end): 
+* Deploy na Vercel (Front-end): https://lumora-front-web.vercel.app/
