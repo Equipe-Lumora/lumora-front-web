@@ -34,14 +34,20 @@ A Inteligência Artificial foi utilizada como uma ferramenta de apoio ao desenvo
 
 ### 1. Iniciar o Back-end (API)
 Abra o terminal na pasta do projeto e execute:
+
+```bash
 cd backend
 pip install fastapi uvicorn wikipedia pydantic
 uvicorn main:app --reload
+```
 
 ### 2. Iniciar o Front-end (React)
 Abra um segundo terminal na raiz do projeto e execute:
+
+```bash
 npm install
 npm run dev
+```
 
 ---
 
